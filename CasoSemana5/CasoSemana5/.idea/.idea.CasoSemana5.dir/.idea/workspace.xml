@@ -26,6 +26,9 @@
     <setting file="file://$PROJECT_DIR$/Repository/Interfaces/IPaymentRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Repository/Interfaces/IRecipeRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Repository/Interfaces/IReservationRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Repository/Interfaces/ISystemUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Repository/Interfaces/ITableRestaurantRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Repository/Interfaces/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="32qbI3eQy7UUXbbiNYUC7gFDiBs" />
   <component name="PropertiesComponent"><![CDATA[{
